@@ -25,12 +25,12 @@ To build the ZIP Viewer application, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/54m47/zip-viewer.git
+   git clone https://github.com/54m47/zip_viewer.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd zip-viewer
+   cd zip_viewer
    ```
 
 3. Create a build directory and navigate to it:
@@ -51,7 +51,7 @@ To build the ZIP Viewer application, follow these steps:
 
 6. Run the application:
    ```
-   ./bin/zip-viewer
+   ./bin/zip_viewer
    ```
 
 ## Usage
